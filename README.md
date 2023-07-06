@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **angualar**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **dhanushdpandian@gmail.com**
 

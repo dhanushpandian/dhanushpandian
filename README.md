@@ -34,3 +34,40 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushpandian&show_icons=true&locale=en" alt="dashdhanush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushpandian&" alt="dashdhanush" /></p>
+
+<head>
+<title>Calculator</title>
+<script>
+function calculate() {
+  var num1 = document.getElementById("num1").value;
+  var num2 = document.getElementById("num2").value;
+  var operator = document.getElementById("operator").value;
+  if (operator == "+") {
+    result = num1 + num2;
+  } else if (operator == "-") {
+    result = num1 - num2;
+  } else if (operator == "*") {
+    result = num1 * num2;
+  } else if (operator == "/") {
+    result = num1 / num2;
+  }
+  document.getElementById("result").innerHTML = result;
+}
+</script>
+</head>
+<body>
+<h1>Calculator</h1>
+<form>
+  <input type="text" id="num1" placeholder="First number" onkeyup="calculate()">
+  <br>
+  
+  <input type="text" id="num2" placeholder="Second number" onkeyup="calculate()">
+  <select id="operator">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+  </select>
+  <p>The result is: <span id="result"></span></p>
+</form>
+</body>

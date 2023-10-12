@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dashdhanush" alt="dashdhanush" /></a> </p>
 
-- 🔭 I’m currently working on **DHRM project at IIIC**
+- 🔭 I’m currently working on **Customer Attrition Prediction**
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhanushdpandian@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [-](-)**DHRM project at IIIC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

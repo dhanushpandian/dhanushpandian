@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [www.github/dashdhanush](www.github/dhanushpandian)
+- 👨‍💻 All of my projects are available at [www.github/dhanushpandian](www.github/dhanushpandian)
 
 - 💬 Ask me about **Python**
 

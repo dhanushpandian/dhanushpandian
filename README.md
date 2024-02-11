@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushpandian" alt="dhanushpandian" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Attrition Prediction**
+- 🔭 I’m currently working on **VS Code Extension for Deployment**
 
 - 🌱 I’m currently learning **Machine learning**
 

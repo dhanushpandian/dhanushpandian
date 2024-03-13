@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+<br><br>
 <h1 align="center">Hi 👋, I'm Dhanush Pandian</h1>
 <h3 align="center">An Average Tech Enthusiast </h3>
 

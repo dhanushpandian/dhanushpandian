@@ -1,12 +1,9 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dashdhanush&label=Profile%20views&color=0e75b6&style=flat" alt="dashdhanush" />  </p>
+<div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Dhanush Pandian</h1>
 <h3 align="center">An Average Tech Enthusiast </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dashdhanush&label=Profile%20views&color=0e75b6&style=flat" alt="dashdhanush" />  </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushpandian" alt="dhanushpandian" /></a> </p>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Your Alt Text">
+</div>
 - 🔭 I’m currently working on **VS Code Extension for Deployment**
 
 - 🌱 I’m currently learning **Machine learning**
@@ -18,6 +15,7 @@
 - 📫 How to reach me **dhanushdpandian@gmail.com**
 
 - 📄 Know about my experiences [-](-)**DHRM project at IIIC**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushpandian" alt="dhanushpandian" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

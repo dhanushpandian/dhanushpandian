@@ -1,24 +1,35 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashdhanush&label=Profile%20views&color=0e75b6&style=flat" alt="dashdhanush" />  </p>
-<div style="text-align: center;">
-<h1 align="center">Hi 👋, I'm Dhanush Pandian</h1>
-<h3 align="center">An Average Tech Enthusiast </h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Your Alt Text">
+
+<h1 align="center" > Hi 👋, I'm Dhanush Pandian
+  <br>
+  <sup><i>An Average Tech Enthusiast</i></sup>
+</h3>
+
+<div font-size: 120%;>
+   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="45%" align="right" alt="Your Alt Text">
+<h3>
+
+  - 🔭 I’m currently working on **VS Code Extension for Deployment**
+
+  - 🌱 I’m currently learning **Machine learning**
+
+  - 👨‍💻 All of my projects are available at *([https://github.com/dhanushpandian](https://github.com/dhanushpandian?tab=repositories))*
+
+  - 💬 Ask me about **Python**
+
+  - 📫 How to reach me **dhanushdpandian@gmail.com**
+
+  - 📄 Know about my experiences [-](-)**DHRM project at IIIC**
+</h3>
 </div>
-- 🔭 I’m currently working on **VS Code Extension for Deployment**
-
-- 🌱 I’m currently learning **Machine learning**
-
-- 👨‍💻 All of my projects are available at *([https://github.com/dhanushpandian](https://github.com/dhanushpandian?tab=repositories))*
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **dhanushdpandian@gmail.com**
-
-- 📄 Know about my experiences [-](-)**DHRM project at IIIC**
-
+<br>
+<br>
+<br>
+<h2>Git Stats:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushpandian&theme=dark" alt="dhanushpandian" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<hr>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-d-481306249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanush-d-481306249/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dhanushpandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dhanushpandian" height="30" width="40" /></a>
@@ -50,6 +61,7 @@
         </tr>
     </table>
 </div>
+
 
 
 

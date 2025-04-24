@@ -46,7 +46,7 @@
     <table>
         <tr>
             <td align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushpandian&theme=dark" alt="dashdhanush" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushpandian&theme=dark" alt="dhanushpandian" />
             </td>
             <td align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushpandian&theme=gruvbox&show_icons=true" alt="dashdhanush" />
